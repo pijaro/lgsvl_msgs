@@ -18,6 +18,7 @@ set(MSG_FILES
   "SignalArray.msg"
   "VehicleControlData.msg"
   "VehicleStateData.msg"
+  "VehicleOdometry.msg"
 )
 
 if(${ROS_VERSION} EQUAL 1)
